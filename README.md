@@ -1,9 +1,11 @@
 # flowerbox
-ncurses experimentation
+ncurses experimentation, and possibly a stress reliever?
+
+Drop seeds in a virtual flowerbox and make your own garden.
 
 ![example flowerbox](flowerbox.png)
 
-When compiling link ncurses:
+When compiling make sure to link ncurses:
 - [whatever compiler] *.c \-lncurses
 
 
