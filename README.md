@@ -5,8 +5,6 @@ Drop seeds in a virtual flowerbox and make your own garden.
 
 ![example flowerbox](flowerbox.png)
 
-When compiling make sure to link ncurses:
-- [whatever compiler] *.c \-lncurses
-
+Compile with `make`
 
 You must have ncurses installed, find it ![here](https://invisible-island.net/ncurses/)
